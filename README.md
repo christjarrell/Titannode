@@ -8,5 +8,5 @@ curl -O https://raw.githubusercontent.com/christjarrell/Titannode/main/install.s
 ````
 Perintah untuk memeriksa informasi node:
 ````
-## titan-edge config show && titan-edge info
+titan-edge config show && titan-edge info
 ````
