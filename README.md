@@ -4,7 +4,7 @@ Skrip Bash ini akan menginstal otomatis titan-edge di jaringan Testnet L2 Huygen
 
 Perintah instalasi:
 ````
-curl -O https://raw.githubusercontent.com/vinatechpro/titan-install/main/install.sh && chmod u+x install.sh && ./install.sh
+curl -O https://raw.githubusercontent.com/christjarrell/Titannode/main/install.sh && chmod u+x install.sh && ./install.sh
 ````
 Perintah untuk memeriksa informasi node:
 ````
